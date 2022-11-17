@@ -12,7 +12,7 @@ size_t recursive_height(const binary_tree_t *tree)
 
 	if (!tree)
 	{
-		return(0);
+		return (0);
 	}
 	else
 	{
